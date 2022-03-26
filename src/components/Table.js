@@ -1,5 +1,5 @@
 import {
-    Button, Paper,
+    Paper,
     Table as MuiTable,
     TableBody,
     TableCell,
