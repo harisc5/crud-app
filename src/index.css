@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.hover {
+  cursor: pointer;
+}
+
+.container {
+  margin: 10px;
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.MuiDialogContent-root {
+  display: flex;
+  flex-direction: column;
+}
